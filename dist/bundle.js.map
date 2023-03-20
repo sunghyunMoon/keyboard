@@ -1,1 +1,0 @@
-{"version":3,"file":"bundle.js","mappings":"mBAIAA,QAAQC,IAAIC,E","sources":["webpack://react_project/./src/js/index.js"],"sourcesContent":["import \"../css/style.css\"\r\n\r\nlet a = 1;\r\nlet b = 2;\r\nconsole.log(a+b);"],"names":["console","log","a"],"sourceRoot":""}
